@@ -38,6 +38,10 @@
            fetch="https://gitlab.com/ThankYouMario"
            revision="uvite" />
 
+  <remote  name="x-blobs-gitlab"
+           fetch="https://gitlab.com/aospax"
+           revision="uvite" />
+
   <remote  name="github"
            fetch="https://github.com" />
 
